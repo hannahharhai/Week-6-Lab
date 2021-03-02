@@ -5,3 +5,4 @@ This is a repository that I have created for the week 6 lab exercises for CMPINF
 Group:
 -Hannah Harhai
 -Benjamin Gilby
+-Matthew Bederman
